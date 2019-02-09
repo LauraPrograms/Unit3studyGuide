@@ -1,0 +1,7 @@
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\bin\Debug\Unit3AssessmentGuide.exe.config
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\bin\Debug\Unit3AssessmentGuide.exe
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\bin\Debug\Unit3AssessmentGuide.pdb
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\obj\Debug\Unit3AssessmentGuide.csprojAssemblyReference.cache
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\obj\Debug\Unit3AssessmentGuide.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\obj\Debug\Unit3AssessmentGuide.exe
+C:\Users\Mrs Huie\source\repos\Unit3AssessmentGuide\Unit3AssessmentGuide\obj\Debug\Unit3AssessmentGuide.pdb
